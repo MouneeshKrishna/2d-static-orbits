@@ -26,5 +26,5 @@ plt.plot(pos[0, 1], pos[0, 0], 'r*', label="Periapsis")
 plt.legend(loc="upper right")
 plt.title('Orbital Simulation')
 #plt.show()
-plt.savefig("output/chap5_1.png")
+plt.savefig("output.png")
 
